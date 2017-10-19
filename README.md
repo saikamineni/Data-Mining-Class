@@ -1,1 +1,1 @@
-# Data-Mining-INF-553
+# Data-Mining-Class
